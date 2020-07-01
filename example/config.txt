@@ -1,0 +1,2 @@
+Prefix plugins/OTUHeatmap/example
+Plugin OTUHeatmap inputfile parameters.txt outputfile output

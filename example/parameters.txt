@@ -1,0 +1,2 @@
+otutable	plugins/OTUHeatmap/example/otu_table.biom
+tree	plugins/OTUHeatmap/example/rep_set.tre
